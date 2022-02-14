@@ -8,7 +8,7 @@ function signIn({providers}) {
              <div className="flex flex-col items-center justify-center min-h-screen py-2 -mt-20 px-14 text-center">
                 <img className="w-80" src="https://links.papareact.com/ocw" alt="" />
                 <p className="font-xs italic">
-                    This is not a REAL app, it is built for educational purposes only
+                    This is not a REAL app, This is a demo app
                 </p>
             <div className="mt-[5rem]">
       {Object.values(providers).map((provider) => (
